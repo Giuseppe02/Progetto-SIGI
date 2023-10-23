@@ -22,7 +22,7 @@
 
 ## Migliorare un processo:
 - Un esempio di miglioramento di processo potrebbe essere l'implementazione di un sistema di gestione delle code basato su ICT. Questo sistema potrebbe consentire ai pazienti di prenotare gli appuntamenti online, ricevere notifiche in tempo reale sul loro stato di attesa e permettere al personale ospedaliero di gestire in modo più efficiente le risorse. In questo modo, si ridurrebbero i tempi di attesa e si aumenterebbe la soddisfazione dei pazienti.
-
+---
 # STRATEGIE COMPETITIVE
 ## Sviluppo di centri di eccellenza: 
 - L'ospedale potrebbe utilizzare le ICT per sviluppare centri di eccellenza in determinate aree mediche, ad esempio la chirurgia cardiaca o l'oncologia. Questi centri potrebbero essere pubblicizzati attraverso campagne di marketing online mirate.
