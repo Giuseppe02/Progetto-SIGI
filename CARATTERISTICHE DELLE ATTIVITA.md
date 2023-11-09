@@ -82,4 +82,15 @@
 - Fiscalità generale delle regioni
 ---
 # BENCHMARK
-- *Problema*: prenotare una visita in tempi
+- *Problema*: prenotare una visita in tempi brevi
+- *Soluzione*: Otimizzazione del sistema informatico per le prenotazioni e personale competente che riesce a rispettare i tempi di lavoro e dare priorità alle persone malate
+- *Prodotto*: Software gestionale
+---
+# CUSTOMER JOURNEY
+VOGLIO PRENOTARE|Login|Servizio|Data|Orario|
+---|---|---|---|---|
+Essentials|Inserimento o recupero credenziali|Tipo di visita/operazione|Data della visita/operazione|Orario della visita/operazione|
+Desiderata|Memorizzazione credenziali|Suddivisione visite per reparti|Trovare le date più vicine in base alle esegienze|Fasce orarie rispettate|
+Nice to have|Accesso tramite impronta o face ID|Inserire cosa si desidera cercare|Notifica di una nuova disponibilità in caso di rinuncia di un altro utente|-|
+
+
