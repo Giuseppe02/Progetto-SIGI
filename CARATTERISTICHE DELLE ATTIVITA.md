@@ -1,3 +1,5 @@
+# Progetto SIGI: Opsedale
+---
 # ﻿CARATTERISTICHE DELLE ATTIVITA’ AZIENDALI
 ## Strategie: 
 - Pianificazione espansione reparti, sistema informativo integrato
@@ -32,3 +34,52 @@
 
 ## Telemedicina per comunità remote:
 - Se la focalizzazione è su comunità remote o sottoservite, la telemedicina potrebbe essere utilizzata per fornire servizi sanitari di alta qualità a tali aree, raggiungendo pazienti che altrimenti avrebbero difficoltà di accesso all'assistenza medica
+---
+# BUSSINESS MODEL CANVAS (BMC)
+## Value Propositions
+- Le migliori tecnologie mediche combinate con l'alta formazione dello staff, professionalità e l'essserci sempre.
+
+## Customer Segment
+- Tutte le età con distinzione tra bambini, adulti e anziani e tra visite, ricoveri e consulenze
+
+## Channels
+- Sito web, App mobile
+- Social media
+- Numeri fissi e mobili per consulenze anche via whatsapp.
+
+## Customer Relationships
+- Relazioni utente gestite tramite la piattaforma mobile
+- Servizio di assistenza fornito dallo staff "umano" via chat
+- Servizi di prenotazione e pagamenti forniti dalla piattaforma online
+
+## Key activities
+- Servizio clienti
+- Assistenza ai malati
+- Marketing per sponsorizzare le consulenze e servizi offerti
+- Lavoro svolto correttamente
+
+## Key partners
+- Stato (Regione)
+- Fornitori macchinari
+- Case farmaceutiche per la fornitura di farmaci
+- Servizi esterni per la gestione dei pagamenti
+- Tecnici
+
+## Key resources
+- Infrastruttra fisica (Ospedale)
+- Medici, infermieri, tecnici, team marketing
+
+## Cost structure
+### VARIABILI:
+  - Elettricità, luce, gas, stipendi, pagamento fornitori, costi operativi
+### FISSI:
+  -  Utenze, tassa rifiuti, pubblicità (marketing)
+
+## Revenue Streams
+- Vendita farmaci. servizi consulenze, entrate proprie degli enti
+- Pubblicità + clienti
+- Investimenti e finanziamenti
+- Fiscalità generale delle regioni
+---
+# BENCHMARK
+- *Problema*: prenotare una visita in tempi
