@@ -73,12 +73,11 @@
     - **Fascicolo Sanitario Elettronico**: consente di accedere alle principali funzionalità del Fascicolo Sanitario come consultare e scaricare i documenti sanitari del Sistema Sanitario Nazionale (verbali di pronto soccorso, lettere di dimissione, ecc.), tutti i referti di visite ed esami presenti nel proprio Fascicolo Sanitario e aggiungere documenti per arricchire la propria storia clinica (attraverso il servizio Taccuino).
 ---
 # 4. CUSTOMER JOURNEY
-VOGLIO PRENOTARE|Login|Servizio|Data|Orario|
----|---|---|---|---|
-Essentials|Inserimento o recupero credenziali|Tipo di visita/operazione|Data della visita/operazione|Orario della visita/operazione|
-Desiderata|Memorizzazione credenziali|Suddivisione visite per reparti|Trovare le date più vicine in base alle esegienze|Fasce orarie rispettate|
-Nice to have|Accesso tramite impronta o face ID|Inserire cosa si desidera cercare|Notifica di una nuova disponibilità in caso di rinuncia di un altro utente|-|
-
+*A: Voglio prenotare appuntamento*|LOGIN|SELEZIONARE SERVIZIO|SELEZIONARE DATA|SELEZIONARE LUOGO|*B: Avere una lista di prenotazioni ordinate secondo le sedi fisiche vicino a me*|
+---|---|---|---|---|---|
+**ESSENTIALS**|Inserimento o recupero credenziali|Tipo di visita/consulenza|Data della visita|Poliambulatori disponibili|
+**DESIDERATA**|Memorizzazione credenziali per non doverle reinserire|Suddivisione visite per reparti|Trovare le date più vicine in base alle esegienze|Lista poliambulatori disponibili nelle vicinanze|
+**NICE TO HAVE**|Accesso tramite impronta o face ID|Inserire cosa si desidera cercare|Notifica di una nuova disponibilità in caso di rinuncia di un altro utente|-|
 ---
 # 5. STRUTTURA E FLUSSO UTENTE
 - Da fare!
