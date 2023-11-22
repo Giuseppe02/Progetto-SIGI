@@ -97,10 +97,14 @@
 - Investimenti e finanziamenti
 - Fiscalità generale delle regioni
 ---
-# BENCHMARK
-- *Problema*: prenotare una visita in tempi brevi
-- *Soluzione*: Otimizzazione del sistema informatico per le prenotazioni e personale competente che riesce a rispettare i tempi di lavoro e dare priorità alle persone malate
-- *Prodotto*: Software gestionale
+# BENCHMARKS
+- *Problema 1*: gestione inefficiente degli appuntamenti
+- *Soluzione*: Implementare un sistema di prenotazione online e di gestione degli appuntamenti
+- *Prodotti utilizzabili*:" Prenoto
+
+- *Problema 2*: gestione complessa dei registri medici
+- *Soluzione*: Implementare un sistema di registrazione elettronica del paziente per gestire al meglio i dati medici.
+- *Prodotto*: Fascicolo Sanitario Elettronico 
 ---
 # CUSTOMER JOURNEY
 VOGLIO PRENOTARE|Login|Servizio|Data|Orario|
