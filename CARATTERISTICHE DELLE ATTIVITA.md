@@ -98,14 +98,12 @@
 - Fiscalità generale delle regioni
 ---
 # BENCHMARKS
-### 1
-- *Problema*: gestione inefficiente degli appuntamenti
+### 1 *Problema*: gestione inefficiente degli appuntamenti
 - *Soluzione*: Implementare un sistema di prenotazione online e di gestione degli appuntamenti
-- *Prodotto*:" Prenoto
-### 2
-- *Problema*: gestione complessa dei registri medici
+  - *Prodotto*:" Prenoto
+### 2*Problema*: gestione complessa dei registri medici
 - *Soluzione*: Implementare un sistema di registrazione elettronica del paziente per gestire al meglio i dati medici.
-- *Prodotto*: Fascicolo Sanitario Elettronico 
+  - *Prodotto*: Fascicolo Sanitario Elettronico 
 ---
 # CUSTOMER JOURNEY
 VOGLIO PRENOTARE|Login|Servizio|Data|Orario|
