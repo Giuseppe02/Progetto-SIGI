@@ -100,10 +100,11 @@
 # BENCHMARKS
 ### 1 *Problema*: gestione inefficiente degli appuntamenti
 - *Soluzione*: Implementare un sistema di prenotazione online e di gestione degli appuntamenti
-  - *Prodotto*:" Prenoto
+  - *Prodotto*: Prenoto
 ### 2*Problema*: gestione complessa dei registri medici
 - *Soluzione*: Implementare un sistema di registrazione elettronica del paziente per gestire al meglio i dati medici.
-  - *Prodotto*: Fascicolo Sanitario Elettronico 
+  - *Prodotto*:
+    - Fascicolo Sanitario Elettronico: consente di accedere alle principali funzionalità del Fascicolo Sanitario come consultare e scaricare i documenti sanitari del Sistema Sanitario Nazionale (verbali di pronto soccorso, lettere di dimissione, ecc.), tutti i referti di visite ed esami presenti nel proprio Fascicolo Sanitario e aggiungere documenti per arricchire la propria storia clinica (attraverso il servizio Taccuino).
 ---
 # CUSTOMER JOURNEY
 VOGLIO PRENOTARE|Login|Servizio|Data|Orario|
