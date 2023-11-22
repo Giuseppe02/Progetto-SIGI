@@ -37,46 +37,62 @@
 ---
 # BUSSINESS MODEL CANVAS (BMC)
 ## Value Propositions
-- Le migliori tecnologie mediche combinate con l'alta formazione dello staff, professionalità e l'essserci sempre.
+- Servizi di assistenza sanitaria di alta qualità combinata con le migliori tecnologie.
+- Alta formazione dello staff e professionalità.
+- Servizi di emergenza sempre disponibili 24/7.
 
 ## Customer Segment
-- Tutte le età con distinzione tra bambini, adulti e anziani e tra visite, ricoveri e consulenze
+- Pazienti per visite, ricoveri e consulenze (coloro che cercano assistenza medica)
 
 ## Channels
-- Sito web, App mobile
+- Sito web, App mobile per prenotazioni e appuntamenti
+- Ospedale fisico
 - Social media
-- Numeri fissi e mobili per consulenze anche via whatsapp.
+- Numeri fissi (riferito all'ospedale) e mobili per consulenze telefoniche.
+- Servizi di emergenza (eg. 118)
 
 ## Customer Relationships
-- Relazioni utente gestite tramite la piattaforma mobile
-- Servizio di assistenza fornito dallo staff "umano" via chat
-- Servizi di prenotazione e pagamenti forniti dalla piattaforma online
+- Assistenza e supporto all'utente gestite tramite la piattaforma mobile
+- Comunicazione aperta in presenza con i pazienti 
+- Servizi di prenotazione e pagamenti forniti dalla piattaforma online o macchine self-service 
 
 ## Key activities
 - Servizio clienti
-- Assistenza ai malati
+- Assistenza ai pazienti
 - Marketing per sponsorizzare le consulenze e servizi offerti
-- Lavoro svolto correttamente
+- Formazione del personale medico
+- Gestione risorse umane
 
 ## Key partners
-- Stato (Regione)
-- Fornitori macchinari
+- Stato (Regione) per i finanziamenti
+- Fornitori di attrezzature mediche
 - Case farmaceutiche per la fornitura di farmaci
 - Servizi esterni per la gestione dei pagamenti
 - Tecnici
+- Università
 
 ## Key resources
 - Infrastruttra fisica (Ospedale)
-- Medici, infermieri, tecnici, team marketing
+- Medici, infermieri, tecnici, team marketing e specialisti.
+- Tecnologia medica e attrezzature diagnostiche.
 
 ## Cost structure
 ### VARIABILI:
-  - Elettricità, luce, gas, stipendi, pagamento fornitori, costi operativi
+  - Elettricità
+  - luce e gas
+  - stipendi del personale
+  - pagamento fornitori
+  - costi operativi e manutenzione
+  - formazione del personale e ricerca medica.
 ### FISSI:
-  -  Utenze, tassa rifiuti, pubblicità (marketing)
+  -  Utenze
+  -  tassa rifiuti
+  -  pubblicità (marketing)
+  -  infrastruttura tecnica
 
 ## Revenue Streams
-- Vendita farmaci. servizi consulenze, entrate proprie degli enti
+- Vendita farmaci. servizi consulenze.
+- Servizi aggiuntivi a pagamento specializzati
 - Pubblicità + clienti
 - Investimenti e finanziamenti
 - Fiscalità generale delle regioni
