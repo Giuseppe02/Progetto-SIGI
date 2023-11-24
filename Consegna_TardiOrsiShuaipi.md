@@ -66,11 +66,17 @@
 # 3. BENCHMARKS
 ### 1. Problema: gestione inefficiente degli appuntamenti
 - *Soluzione*: Implementare un sistema di prenotazione online e di gestione degli appuntamenti
-  - *Prodotto*: **Prenoto**...
+  - *Prodotto*: 
+    - **Prenoto Salute**: un servizio di prenotazione online che si aggiugne agli sportelli CUP, numero verde regionale, farmacie abilitate e agli studi medici di medicina generale. Su Prenoto Salute si possono prenotare:
+        - le prestazioni di radiologia
+        - tutte le prime visite specialistiche
+        - gli esami di laboratorio erogati presso i punti prelievo delle Asl.
 ### 2. Problema: gestione complessa dei registri medici
 - *Soluzione*: Implementare un sistema di registrazione elettronica del paziente per gestire al meglio i dati medici.
   - *Prodotto*:
     - **Fascicolo Sanitario Elettronico**: consente di accedere alle principali funzionalità del Fascicolo Sanitario come consultare e scaricare i documenti sanitari del Sistema Sanitario Nazionale (verbali di pronto soccorso, lettere di dimissione, ecc.), tutti i referti di visite ed esami presenti nel proprio Fascicolo Sanitario e aggiungere documenti per arricchire la propria storia clinica (attraverso il servizio Taccuino).
+### 3. Problema: ...
+- Da fare!
 ---
 # 4. CUSTOMER JOURNEY
 *A: Voglio prenotare appuntamento*|LOGIN|SELEZIONARE SERVIZIO|SELEZIONARE DATA|SELEZIONARE LUOGO|*B: Avere una lista di prenotazioni ordinate secondo le sedi fisiche vicino a me*|
