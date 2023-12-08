@@ -79,11 +79,11 @@
 - Da fare!
 ---
 # 4. CUSTOMER JOURNEY
-*A: Voglio prenotare appuntamento*|LOGIN|SELEZIONARE SERVIZIO|SELEZIONARE DATA|SELEZIONARE LUOGO|*B: Avere una lista di prenotazioni ordinate secondo le sedi fisiche vicino a me*|
+*A: Voglio prenotare un appuntamento*|LOGIN|SELEZIONARE SERVIZIO|SELEZIONARE DATA|SELEZIONARE TIPO DI APPUNTAMENTO|*B: Avere una gestione delle prescrizioni mediche*|
 ---|---|---|---|---|---|
-**ESSENTIALS**|Inserimento o recupero credenziali|Tipo di visita/consulenza|Data della visita|Poliambulatori disponibili|
-**DESIDERATA**|Memorizzazione credenziali per non doverle reinserire|Suddivisione visite per reparti|Trovare le date più vicine in base alle esegienze|Lista poliambulatori disponibili nelle vicinanze|
-**NICE TO HAVE**|Accesso tramite impronta o face ID|Inserire cosa si desidera cercare|Notifica di una nuova disponibilità in caso di rinuncia di un altro utente|-|
+**ESSENTIALS**|Inserimento o recupero credenziali|Tipo di visita/consulenza|Data della visita|Tipo tra sede, chat, video|
+**DESIDERATA**|Accesso tramite SPID|Suddivisione visite per reparti|Trovare le date più vicine in base alle esegienze|Cercare la sede fisica|
+**NICE TO HAVE**|Accesso tramite face ID|Inserire cosa si desidera cercare|Notifica di una nuova disponibilità in caso di rinuncia di un altro utente|Visione delle cliniche nelle vicinanze nella mappa|
 ---
 # 5. STRUTTURA E FLUSSO UTENTE
 - Da fare!
